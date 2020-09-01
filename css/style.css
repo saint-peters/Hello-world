@@ -1,0 +1,30 @@
+h1{
+    color: blue;
+    text-align:center ;
+    font-style: italic;
+}
+h2{
+    color: chartreuse;
+}
+p{
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+
+}
+ul{
+    line-height: 40px;
+}
+.intro{
+    color:green;
+    font-style: italic;
+}
+#eat{
+    color: hotpink;
+}
+h1.intro{
+    color: red;
+}
+li.intro{
+    color: lightcoral;
+}
